@@ -18,6 +18,9 @@ Question 2: Given a bank name and city, gets details of all branches of the bank
 			here {bank_name} is replaced by any bank name that you give
 				 {city_name} is replaced by any city name that you give
 
+***VERY IMPORTANT***
+The queries are case sensitive, so if you are looking for data which has all upper case letters, please put the parameter in upper case
+
 I tested the APIs that I developed using the Postman API testing tool which comes as a google chrome extension and it comes with URI encoding
 
 I have one instance of the app already set up with the domain : https://stark-fjord-77483.herokuapp.com/
